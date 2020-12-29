@@ -21,7 +21,7 @@ All libraries are available in Anaconda distribution of Python. The used librari
 - nltk
 - sqlalchemy
 - pickle
-- Flask
+- Flask 
 - plotly
 - sqlite3
 
